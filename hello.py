@@ -1,1 +1,1 @@
-print("Hello AI")
+print("hello, welcome to revelosoft bootcamp")
